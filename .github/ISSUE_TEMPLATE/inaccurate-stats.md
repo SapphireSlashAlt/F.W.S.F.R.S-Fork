@@ -11,3 +11,6 @@ assignees: ''
 (Old Number)
 **New Number**
 (New Number)
+
+**Remove this line and the ones below:**
+Note: read the code of conduct and contributing rules before submitting.

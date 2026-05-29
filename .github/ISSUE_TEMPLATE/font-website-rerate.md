@@ -21,7 +21,7 @@ assignees: ''
 (Reasoning)
 
 **Remove this line and the ones below:**
-Note: read the code of conduct before submitting.
+Note: read the code of conduct and contributing rules before submitting.
 
 Ratings:
 

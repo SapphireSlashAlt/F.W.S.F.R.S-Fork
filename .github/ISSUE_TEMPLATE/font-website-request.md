@@ -2,7 +2,7 @@
 name: Font Website Request
 about: Request a font website to be added.
 title: Add (Font Website Name or URL)
-labels: Font Website Request, Font Website Rerate
+labels: Font Website Request
 assignees: ''
 
 ---
@@ -16,7 +16,7 @@ assignees: ''
 (Rating)
 
 **Remove this line and the ones below:**
-Note: read the code of conduct before submitting.
+Note: read the code of conduct and contributing rules before submitting.
 
 Ratings:
 
